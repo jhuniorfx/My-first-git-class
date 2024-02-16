@@ -4,3 +4,9 @@
     height: 300px;
     background-color: green;
 }
+
+#school{
+    background-color: aqua;
+    font-size: 2em;
+    text-decoration: underline;
+}
